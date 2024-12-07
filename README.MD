@@ -2,7 +2,7 @@
 
 <h2>Description :</h2>
 
-<p>Le principe du jeu simple :</p>
+<p>Le principe du jeu est simple :</p>
 <p>On a un vehicule leader qui represente le canon qui peut tirer des missiles de type Vehicule et qui est dirigé par le curseur</p>
 <p>Un Missile est un cercle rouge qui suit une trajectoire calculé selon la vélocité du vehicule leader</p>
 <p>Le Vehicule Leader est suivi par des petits vehicule qui possèdent un comportement d'attacke pour ce comporter comme un missile téléguidé</p>
